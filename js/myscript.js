@@ -1,6 +1,9 @@
- const userName = prompt("Inserisci il tuo nome");
-console.log(userName)
+let number = 22
+
+const userName = prompt("Inserisci il tuo nome");
 
 const surname = prompt("Inserisci il tuo cognome");
-console.log(surname)
- 
+
+const favoriteColor = prompt("Inserisci il tuo colore preferito");
+
+console.log(surname + favoriteColor + userName + number);
