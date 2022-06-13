@@ -3,3 +3,4 @@ console.log(userName)
 
 const surname = prompt("Inserisci il tuo cognome");
 console.log(surname)
+ 
