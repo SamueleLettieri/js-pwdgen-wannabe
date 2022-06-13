@@ -6,4 +6,4 @@ const surname = prompt("Inserisci il tuo cognome");
 
 const favoriteColor = prompt("Inserisci il tuo colore preferito");
 
-console.log(surname + favoriteColor + userName + number);
+document.getElementById("password").innerHTML = surname + favoriteColor + userName + number;
